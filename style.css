@@ -49,8 +49,8 @@ button {
   padding: 10px 20px; /* Padding untuk proporsional */
   font-size: 1rem;
   border-radius: 5px;
-  width: auto; /* Lebar tombol sesuai teks */
-  max-width: 150px; /* Batas maksimum lebar tombol */
+  width: auto;
+  max-width: 150px;
 }
 
 button:hover {
